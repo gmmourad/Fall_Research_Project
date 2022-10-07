@@ -4,8 +4,8 @@ Fall Research in Local Differential Privacy with Federated Learning
 
 TABLE OF CONTENTS 
 -----------------
-    *Introduction 
-
+    1) Introduction 
+    2) File Description
 
 
 
@@ -18,3 +18,17 @@ incorporate Local Differential Privacy with Federated Learning and is based off 
 "LDP-Fed: Federated Learning with Local Differential Privacy". This research seeks to 
 replicate this paper. 
 
+File Description 
+-----------------
+   LDPFed.pdf
+   -------------------
+         This is the paper which the code in this repository seeks to replicate 
+         
+   CNN_Model.py
+   ---------------
+         This is the model that is currently being used 
+         The code is pulled off from https://www.kaggle.com/code/pankajj/fashion-mnist-with-pytorch-93-accuracy/notebook
+         with the following modifications:
+            *
+            *
+            *
