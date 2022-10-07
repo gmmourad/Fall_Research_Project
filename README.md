@@ -4,7 +4,7 @@ Fall Research in Local Differential Privacy with Federated Learning
 
 TABLE OF CONTENTS 
 -----------------
-*Introduction 
+  *Introduction 
 
 
 
